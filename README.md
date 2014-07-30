@@ -15,8 +15,9 @@ A sua avaliação seguirá a seguinte ordem de relevância:
 
 3) Lógica;
 
-4) Comentários;
+4) O correto funcionamento do programa;
 
-5) O correto funcionamento do programa;
+5) Comentários;
+
 
 
